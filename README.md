@@ -80,7 +80,7 @@ JSON-файле, поэтому каталог обновляется правк
 ## Связаться
 
 ВКонтакте: **[vk.ru/diana_ai_lab](https://vk.ru/diana_ai_lab)**
-Telegram-канал: **[(https://t.me/diana_ai_lab)](https://t.me/diana_ai_lab)**
+Telegram-канал: **[https://t.me/diana_ai_lab](https://t.me/diana_ai_lab)**
 
 Все проекты опубликованы:
 

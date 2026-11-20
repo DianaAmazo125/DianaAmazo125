@@ -61,9 +61,15 @@ JSON-файле, поэтому каталог обновляется правк
 показывает статус «печатает…» и аккуратно режет длинные ответы под лимит Telegram.
 Умеет работать через локальный прокси, если Telegram API недоступен напрямую.
 
+### 🩺 med-assistant — дневник здоровья и питания с отчётами для врача
+
+Модульный local-first трекер для учёта самочувствия, питания и приёма препаратов (поддерживает протоколы Low-FODMAP, ГЭРБ, низкопуриновую диету, контроль мигрени и НПВС). Вся история хранится локально у пользователя, а перед визитом к специалисту в один клик формируется чистый печатный отчёт с динамикой симптомов.
+
+Запускается как на `FastAPI`, так и вообще без внешних зависимостей — на стандартной библиотеке Python (`stdlib`), чтобы работать на любом компьютере из коробки.
+
 ## Технологии, с которыми работаю
 
-- **Язык и бэкенд:** Python, Flask, Jinja2, REST API, работа с JSON-данными
+- **Язык и бэкенд:** Python, Flask, Jinja2, REST API, FastAPIработа с JSON-данными
 - **Фронтенд:** HTML, CSS, JavaScript, Bootstrap — без сборщиков, там где они не нужны
 - **ИИ:** OpenAI-совместимые API, DeepSeek, работа с промптами; шлюз ProxyAPI для оплаты в рублях
 - **Боты и данные:** Telegram Bot API, Telethon, SQLite, pydantic
@@ -90,3 +96,4 @@ Telegram-канал: **[https://t.me/diana_ai_lab](https://t.me/diana_ai_lab)**
 - [ai-digest-vibe](https://github.com/DianaAmazo125/ai-digest-vibe) — сайт-каталог нейросетей
 - [site-generation-post](https://github.com/DianaAmazo125/site-generation-post) — генератор постов для соцсетей
 - [telegram-ai-bot](https://github.com/DianaAmazo125/telegram-ai-bot) — ИИ-ассистент в Telegram
+- [med-assistant](https://github.com) — локальный дневник здоровья и питания

@@ -18,6 +18,7 @@
 | 🌌 [digest_site](https://github.com/DianaAmazo125/ai-digest-vibe) | Сайт-каталог нейросетей с поиском, фильтрами и партнёрскими ссылками | Python, Flask, Jinja2, HTML/CSS/JS |
 | ✍️ [post_generator](https://github.com/DianaAmazo125/site-generation-post) | Панель генерации продающих постов и публикации в ВКонтакте | Python, Flask, Bootstrap, DeepSeek, VK API |
 | 🤖 [telegram_bot](https://github.com/DianaAmazo125/telegram-ai-bot) | Telegram-бот с ИИ-ассистентом и памятью диалога | Python, pyTelegramBotAPI, DeepSeek |
+| 🩺 [med-assistant](https://github.com/DianaAmazo125/med-assistant) | Локальный дневник здоровья и питания с отчётами для врача | Python, FastAPI, stdlib |
 
 ### 🎬 video-montage — автоматический монтаж видео
 

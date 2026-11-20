@@ -69,7 +69,7 @@ JSON-файле, поэтому каталог обновляется правк
 
 ## Технологии, с которыми работаю
 
-- **Язык и бэкенд:** Python, Flask, Jinja2, REST API, FastAPIработа с JSON-данными
+- **Язык и бэкенд:** Python, Flask, Jinja2, REST API, FastAPI, работа с JSON-данными
 - **Фронтенд:** HTML, CSS, JavaScript, Bootstrap — без сборщиков, там где они не нужны
 - **ИИ:** OpenAI-совместимые API, DeepSeek, работа с промптами; шлюз ProxyAPI для оплаты в рублях
 - **Боты и данные:** Telegram Bot API, Telethon, SQLite, pydantic
